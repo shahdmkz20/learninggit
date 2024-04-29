@@ -1,1 +1,2 @@
 hello , Git!
+line2 added to file
